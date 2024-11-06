@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  background-color: rgb(255, 240, 235);
+}
+
+.contenedor {
+  background-color: crimson;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+table,
+th,
+td {
+  border: 2px solid rgb(136, 162, 255);
+  border-collapse: collapse;
+  background-color: rgb(255, 201, 201);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+table,
+th {
+  border: 5px solid white;
+}
+
+th {
+  background-color: rgb(2, 30, 155);
+  color: white;
+}
+
+header {
+  background-color: cornflowerblue;
+  padding: 15px;
+}
+
+h1 {
+  color: aliceblue;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 32px;
+}
+
+h2 {
+  color: cornsilk;
+  text-align: center;
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 15px;
+}
+
+h3 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 50px;
+  color: aliceblue;
+  margin-bottom: 50px;
+  text-align: center;
+
+}
+
+.data {
+  background-color: aliceblue;
+}
+
+.empresa {
+  border: 9px solid rgb(124, 12, 12);
+}
+
+p {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-left: 25px;
+  margin-bottom: 29px;
+  color: aliceblue;
+}
+
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  height: 350px;
+}
+
+.texto {
+  color: blanchedalmond;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.da {
+  color: aliceblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.derechos {
+  text-align: center;
+  padding: 25px;
+}
+
+footer {
+  background-color: burlywood;
+}
